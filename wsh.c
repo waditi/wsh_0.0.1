@@ -1,6 +1,6 @@
 /****************************************************************
 Author: Woytenko W.
-Date: 06.09.2016
+Date: 08.09.2016
 Comment: In this code was many errors. 
 The global error is - isn't allocated memory correct. 
 For this rewrite required subprogram, who allocate memory.
